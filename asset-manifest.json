@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/NTUF1-LinkTree/static/js/main.01949141.js",
+    "main.js": "/NTUF1-LinkTree/static/js/main.b265226c.js",
     "index.html": "/NTUF1-LinkTree/index.html",
-    "main.01949141.js.map": "/NTUF1-LinkTree/static/js/main.01949141.js.map"
+    "main.b265226c.js.map": "/NTUF1-LinkTree/static/js/main.b265226c.js.map"
   },
   "entrypoints": [
-    "static/js/main.01949141.js"
+    "static/js/main.b265226c.js"
   ]
 }
